@@ -1,6 +1,6 @@
 ---
 title: Testbeitrag
-date: 2023-07-27 21:50:00 +/-TTTT
+date: 2023-07-27 21:50:00
 categories: [test, sub-test]
 tags: [test1, test2, test3]     # TAG names should always be lowercase
 ---
