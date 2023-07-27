@@ -1,8 +1,8 @@
 ---
 title: Testbeitrag
-date: 2023-07-27 21:50:00
+date: 2023-07-26 21:50:00
 categories: [test, sub-test]
-tags: [test1, test2, test3]     # TAG names should always be lowercase
+tags: [test1,test2,test3]     # TAG names should always be lowercase
 ---
 
 # Beiträge in beautiful Markdown
